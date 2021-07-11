@@ -10,7 +10,7 @@ How to play:
 
 ## Requirements:
 
-The c++[ncurses](https://invisible-island.net/ncurses/#download_ncurses) library.
+The c++ [ncurses](https://invisible-island.net/ncurses/#download_ncurses) library.
 
 ## Setup:
 
